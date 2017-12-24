@@ -4,3 +4,8 @@ A .git file is created. We need to do this to keep track of the changes.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+add only files to commit to staging area nd commit accordingly
+
